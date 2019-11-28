@@ -1,0 +1,1605 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.18.9">
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <layer-tree-group expanded="1" checked="Qt::Unchecked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="NDVI_Diff20190326192748913" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/NDVI_Diff.tif" name="NDVI_Diff">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="NDVI_201620190326192708155" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/NDVI_2016.tif" name="NDVI_2016">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="NDVI_1993_again20190326195749093" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/NDVI_1993_again.tif" name="NDVI_1993">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="EVI_Diff20190326193444885" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/EVI_Diff.tif" name="EVI_Diff">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="EVI_201620190326193421835" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/EVI_2016.tif" name="EVI_2016">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="EVI_199320190326193213676" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/EVI_1993.tif" name="EVI_1993">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="Assignment_Tanzania2016_clipped20190322115515123" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Assignment_Tanzania2016_clipped.tif" name="Assignment_Tanzania2016_clipped">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="Assignment_Tanzania1993_clipped20190322115400007" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Assignment_Tanzania1993_clipped.tif" name="Assignment_Tanzania1993_clipped">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="NBR_Diff20190322110721702" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/NBR_Diff.tif" name="NBR_Diff">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="NBR_201620190322110225127" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/NBR_2016.tif" name="NBR_2016">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="NBR_199320190322110001459" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/NBR_1993.tif" name="NBR_1993">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="Tanzania1993_clipped20190322102636537" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Tanzania1993_clipped.tif" name="Tanzania1993_clipped">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="Tanzania2016_clipped20190322102901151" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Tanzania2016_clipped.tif" name="Tanzania2016_clipped">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="Tanzania201620190322100837718" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Tanzania2016.tif" name="Tanzania2016">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="Tanzania199320190322100308004" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Tanzania1993.tif" name="Tanzania1993">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="Tanzania2016_band5_clipped20190322104635609" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Tanzania2016_band5_clipped.tif" name="Tanzania2016_band5_clipped">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="Tanzania1993_band4_clipped20190322104518876" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Tanzania1993_band4_clipped.tif" name="Tanzania1993_band4_clipped">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="NIR_2016_1993_clipped20190322104818185" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/NIR_2016_1993_clipped.tif" name="NIR_2016_1993_clipped">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="LC08_L1TP_166067_20160704_20180526_01_T1_sr_band520190322100559301" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Week1ImageryFinal/Imagery/LC08_L1TP_166067_20160704_20180526_01_T1_sr_band5.tif" name="LC08_L1TP_166067_20160704_20180526_01_T1_sr_band5">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="LT05_L1TP_166067_19930705_20170118_01_T1_sr_band420190322100000035" source="C:/Users/pcrr188a/Desktop/YEAR 3 SEM 2/ES3201/Week 9/Tutorial/Week1ImageryFinal/Imagery/LT05_L1TP_166067_19930705_20170118_01_T1_sr_band4.tif" name="LT05_L1TP_166067_19930705_20170118_01_T1_sr_band4">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>meters</units>
+    <extent>
+      <xmin>329376.4494766138959676</xmin>
+      <ymin>-1098678.43663360015489161</ymin>
+      <xmax>422586.7173844336066395</xmax>
+      <ymax>-1003873.99232425098307431</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>0</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+        <srsid>3121</srsid>
+        <srid>32637</srid>
+        <authid>EPSG:32637</authid>
+        <description>WGS 84 / UTM zone 37N</description>
+        <projectionacronym>utm</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info/>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="0">
+      <item>LT05_L1TP_166067_19930705_20170118_01_T1_sr_band420190322100000035</item>
+      <item>Tanzania199320190322100308004</item>
+      <item>LC08_L1TP_166067_20160704_20180526_01_T1_sr_band520190322100559301</item>
+      <item>Tanzania201620190322100837718</item>
+      <item>Tanzania1993_clipped20190322102636537</item>
+      <item>Tanzania2016_clipped20190322102901151</item>
+      <item>Tanzania1993_band4_clipped20190322104518876</item>
+      <item>Tanzania2016_band5_clipped20190322104635609</item>
+      <item>NIR_2016_1993_clipped20190322104818185</item>
+      <item>NBR_199320190322110001459</item>
+      <item>NBR_201620190322110225127</item>
+      <item>NBR_Diff20190322110721702</item>
+      <item>Assignment_Tanzania1993_clipped20190322115400007</item>
+      <item>Assignment_Tanzania2016_clipped20190322115515123</item>
+      <item>NDVI_201620190326192708155</item>
+      <item>NDVI_Diff20190326192748913</item>
+      <item>EVI_199320190326193213676</item>
+      <item>EVI_201620190326193421835</item>
+      <item>EVI_Diff20190326193444885</item>
+      <item>NDVI_1993_again20190326195749093</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="true">
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="NDVI_Diff" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="NDVI_Diff20190326192748913" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="NDVI_2016" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="NDVI_201620190326192708155" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="NDVI_1993" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="NDVI_1993_again20190326195749093" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="EVI_Diff" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="EVI_Diff20190326193444885" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="EVI_2016" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="EVI_201620190326193421835" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="EVI_1993" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="EVI_199320190326193213676" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Assignment_Tanzania2016_clipped" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Assignment_Tanzania2016_clipped20190322115515123" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Assignment_Tanzania1993_clipped" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Assignment_Tanzania1993_clipped20190322115400007" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="NBR_Diff" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="NBR_Diff20190322110721702" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="NBR_2016" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="NBR_201620190322110225127" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="NBR_1993" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="NBR_199320190322110001459" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Tanzania1993_clipped" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Tanzania1993_clipped20190322102636537" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Tanzania2016_clipped" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Tanzania2016_clipped20190322102901151" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Tanzania2016" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Tanzania201620190322100837718" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Tanzania1993" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Tanzania199320190322100308004" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Tanzania2016_band5_clipped" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Tanzania2016_band5_clipped20190322104635609" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="Tanzania1993_band4_clipped" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="Tanzania1993_band4_clipped20190322104518876" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="NIR_2016_1993_clipped" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="NIR_2016_1993_clipped20190322104818185" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="LC08_L1TP_166067_20160704_20180526_01_T1_sr_band5" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="LC08_L1TP_166067_20160704_20180526_01_T1_sr_band520190322100559301" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="LT05_L1TP_166067_19930705_20170118_01_T1_sr_band4" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="LT05_L1TP_166067_19930705_20170118_01_T1_sr_band420190322100000035" visible="0"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <projectlayers>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>401955</xmin>
+        <ymin>-1112565</ymin>
+        <xmax>458925</xmax>
+        <ymax>-1068825</ymax>
+      </extent>
+      <id>Assignment_Tanzania1993_clipped20190322115400007</id>
+      <datasource>./Assignment_Tanzania1993_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Assignment_Tanzania1993_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+        <noDataList bandNo="5" useSrcNoData="0"/>
+        <noDataList bandNo="6" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" blueBand="3" greenBand="4" type="multibandcolor" redBand="5">
+          <rasterTransparency/>
+          <redContrastEnhancement>
+            <minValue>1378.74</minValue>
+            <maxValue>2297.46</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>1806.13</minValue>
+            <maxValue>2664.34</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>311.964</minValue>
+            <maxValue>720.155</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>401955</xmin>
+        <ymin>-1112565</ymin>
+        <xmax>458925</xmax>
+        <ymax>-1068825</ymax>
+      </extent>
+      <id>Assignment_Tanzania2016_clipped20190322115515123</id>
+      <datasource>./Assignment_Tanzania2016_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Assignment_Tanzania2016_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+        <noDataList bandNo="5" useSrcNoData="0"/>
+        <noDataList bandNo="6" useSrcNoData="0"/>
+        <noDataList bandNo="7" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" blueBand="4" greenBand="5" type="multibandcolor" redBand="6">
+          <rasterTransparency/>
+          <redContrastEnhancement>
+            <minValue>1288.66</minValue>
+            <maxValue>2676.91</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>1935.62</minValue>
+            <maxValue>2930.22</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>190.92</minValue>
+            <maxValue>822.847</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>401955</xmin>
+        <ymin>-1112565</ymin>
+        <xmax>458925</xmax>
+        <ymax>-1068825</ymax>
+      </extent>
+      <id>EVI_199320190326193213676</id>
+      <datasource>./EVI_1993.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EVI_1993</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="1.97099" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="0.854187" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0.854" label="0.854" color="#0d0887"/>
+              <item alpha="255" value="0.876" label="0.876" color="#1b068d"/>
+              <item alpha="255" value="0.898" label="0.898" color="#260591"/>
+              <item alpha="255" value="0.92" label="0.92" color="#2f0596"/>
+              <item alpha="255" value="0.942" label="0.942" color="#38049a"/>
+              <item alpha="255" value="0.964" label="0.964" color="#41049d"/>
+              <item alpha="255" value="0.986" label="0.986" color="#4903a0"/>
+              <item alpha="255" value="1.01" label="1.01" color="#5102a3"/>
+              <item alpha="255" value="1.03" label="1.03" color="#5901a5"/>
+              <item alpha="255" value="1.05" label="1.05" color="#6100a7"/>
+              <item alpha="255" value="1.07" label="1.07" color="#6900a8"/>
+              <item alpha="255" value="1.1" label="1.1" color="#7100a8"/>
+              <item alpha="255" value="1.12" label="1.12" color="#7801a8"/>
+              <item alpha="255" value="1.14" label="1.14" color="#8004a8"/>
+              <item alpha="255" value="1.16" label="1.16" color="#8707a6"/>
+              <item alpha="255" value="1.18" label="1.18" color="#8e0ca4"/>
+              <item alpha="255" value="1.2" label="1.2" color="#9511a1"/>
+              <item alpha="255" value="1.23" label="1.23" color="#9c179e"/>
+              <item alpha="255" value="1.25" label="1.25" color="#a21d9a"/>
+              <item alpha="255" value="1.27" label="1.27" color="#a82296"/>
+              <item alpha="255" value="1.29" label="1.29" color="#ae2892"/>
+              <item alpha="255" value="1.31" label="1.31" color="#b42e8d"/>
+              <item alpha="255" value="1.34" label="1.34" color="#ba3388"/>
+              <item alpha="255" value="1.36" label="1.36" color="#bf3984"/>
+              <item alpha="255" value="1.38" label="1.38" color="#c43e7f"/>
+              <item alpha="255" value="1.4" label="1.4" color="#c9447a"/>
+              <item alpha="255" value="1.42" label="1.42" color="#cd4a76"/>
+              <item alpha="255" value="1.45" label="1.45" color="#d24f71"/>
+              <item alpha="255" value="1.47" label="1.47" color="#d6556d"/>
+              <item alpha="255" value="1.49" label="1.49" color="#da5b69"/>
+              <item alpha="255" value="1.51" label="1.51" color="#de6164"/>
+              <item alpha="255" value="1.53" label="1.53" color="#e26660"/>
+              <item alpha="255" value="1.55" label="1.55" color="#e66c5c"/>
+              <item alpha="255" value="1.58" label="1.58" color="#e97257"/>
+              <item alpha="255" value="1.6" label="1.6" color="#ed7953"/>
+              <item alpha="255" value="1.62" label="1.62" color="#f07f4f"/>
+              <item alpha="255" value="1.64" label="1.64" color="#f3854b"/>
+              <item alpha="255" value="1.66" label="1.66" color="#f58c46"/>
+              <item alpha="255" value="1.69" label="1.69" color="#f79342"/>
+              <item alpha="255" value="1.71" label="1.71" color="#f99a3e"/>
+              <item alpha="255" value="1.73" label="1.73" color="#fba139"/>
+              <item alpha="255" value="1.75" label="1.75" color="#fca835"/>
+              <item alpha="255" value="1.77" label="1.77" color="#fdaf31"/>
+              <item alpha="255" value="1.8" label="1.8" color="#feb72d"/>
+              <item alpha="255" value="1.82" label="1.82" color="#febe2a"/>
+              <item alpha="255" value="1.84" label="1.84" color="#fdc627"/>
+              <item alpha="255" value="1.86" label="1.86" color="#fcce25"/>
+              <item alpha="255" value="1.88" label="1.88" color="#fbd724"/>
+              <item alpha="255" value="1.91" label="1.91" color="#f8df25"/>
+              <item alpha="255" value="1.93" label="1.93" color="#f6e826"/>
+              <item alpha="255" value="1.95" label="1.95" color="#f3f027"/>
+              <item alpha="255" value="1.97" label="1.97" color="#f0f921"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>401955</xmin>
+        <ymin>-1112565</ymin>
+        <xmax>458925</xmax>
+        <ymax>-1068825</ymax>
+      </extent>
+      <id>EVI_201620190326193421835</id>
+      <datasource>./EVI_2016.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EVI_2016</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/0/id" value="transparency"/>
+        <property key="embeddedWidgets/count" value="1"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="2.15459" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="0.790506" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0.791" label="0.791" color="#0d0887"/>
+              <item alpha="255" value="0.817" label="0.817" color="#1b068d"/>
+              <item alpha="255" value="0.844" label="0.844" color="#260591"/>
+              <item alpha="255" value="0.871" label="0.871" color="#2f0596"/>
+              <item alpha="255" value="0.897" label="0.897" color="#38049a"/>
+              <item alpha="255" value="0.924" label="0.924" color="#41049d"/>
+              <item alpha="255" value="0.951" label="0.951" color="#4903a0"/>
+              <item alpha="255" value="0.978" label="0.978" color="#5102a3"/>
+              <item alpha="255" value="1" label="1" color="#5901a5"/>
+              <item alpha="255" value="1.03" label="1.03" color="#6100a7"/>
+              <item alpha="255" value="1.06" label="1.06" color="#6900a8"/>
+              <item alpha="255" value="1.08" label="1.08" color="#7100a8"/>
+              <item alpha="255" value="1.11" label="1.11" color="#7801a8"/>
+              <item alpha="255" value="1.14" label="1.14" color="#8004a8"/>
+              <item alpha="255" value="1.16" label="1.16" color="#8707a6"/>
+              <item alpha="255" value="1.19" label="1.19" color="#8e0ca4"/>
+              <item alpha="255" value="1.22" label="1.22" color="#9511a1"/>
+              <item alpha="255" value="1.25" label="1.25" color="#9c179e"/>
+              <item alpha="255" value="1.27" label="1.27" color="#a21d9a"/>
+              <item alpha="255" value="1.3" label="1.3" color="#a82296"/>
+              <item alpha="255" value="1.33" label="1.33" color="#ae2892"/>
+              <item alpha="255" value="1.35" label="1.35" color="#b42e8d"/>
+              <item alpha="255" value="1.38" label="1.38" color="#ba3388"/>
+              <item alpha="255" value="1.41" label="1.41" color="#bf3984"/>
+              <item alpha="255" value="1.43" label="1.43" color="#c43e7f"/>
+              <item alpha="255" value="1.46" label="1.46" color="#c9447a"/>
+              <item alpha="255" value="1.49" label="1.49" color="#cd4a76"/>
+              <item alpha="255" value="1.51" label="1.51" color="#d24f71"/>
+              <item alpha="255" value="1.54" label="1.54" color="#d6556d"/>
+              <item alpha="255" value="1.57" label="1.57" color="#da5b69"/>
+              <item alpha="255" value="1.59" label="1.59" color="#de6164"/>
+              <item alpha="255" value="1.62" label="1.62" color="#e26660"/>
+              <item alpha="255" value="1.65" label="1.65" color="#e66c5c"/>
+              <item alpha="255" value="1.67" label="1.67" color="#e97257"/>
+              <item alpha="255" value="1.7" label="1.7" color="#ed7953"/>
+              <item alpha="255" value="1.73" label="1.73" color="#f07f4f"/>
+              <item alpha="255" value="1.75" label="1.75" color="#f3854b"/>
+              <item alpha="255" value="1.78" label="1.78" color="#f58c46"/>
+              <item alpha="255" value="1.81" label="1.81" color="#f79342"/>
+              <item alpha="255" value="1.83" label="1.83" color="#f99a3e"/>
+              <item alpha="255" value="1.86" label="1.86" color="#fba139"/>
+              <item alpha="255" value="1.89" label="1.89" color="#fca835"/>
+              <item alpha="255" value="1.91" label="1.91" color="#fdaf31"/>
+              <item alpha="255" value="1.94" label="1.94" color="#feb72d"/>
+              <item alpha="255" value="1.97" label="1.97" color="#febe2a"/>
+              <item alpha="255" value="1.99" label="1.99" color="#fdc627"/>
+              <item alpha="255" value="2.02" label="2.02" color="#fcce25"/>
+              <item alpha="255" value="2.05" label="2.05" color="#fbd724"/>
+              <item alpha="255" value="2.07" label="2.07" color="#f8df25"/>
+              <item alpha="255" value="2.1" label="2.1" color="#f6e826"/>
+              <item alpha="255" value="2.13" label="2.13" color="#f3f027"/>
+              <item alpha="255" value="2.15" label="2.15" color="#f0f921"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>401955</xmin>
+        <ymin>-1112565</ymin>
+        <xmax>458925</xmax>
+        <ymax>-1068825</ymax>
+      </extent>
+      <id>EVI_Diff20190326193444885</id>
+      <datasource>./EVI_Diff.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>EVI_Diff</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="0.661816" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-0.780766" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-0.781" label="-0.781" color="#d7191c"/>
+              <item alpha="255" value="-0.42" label="-0.42" color="#fdae61"/>
+              <item alpha="255" value="-0.0595" label="-0.0595" color="#ffffbf"/>
+              <item alpha="255" value="0.301" label="0.301" color="#abdda4"/>
+              <item alpha="255" value="0.662" label="0.662" color="#2b83ba"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>311985</xmin>
+        <ymin>-1235415</ymin>
+        <xmax>540015</xmax>
+        <ymax>-1003485</ymax>
+      </extent>
+      <id>LC08_L1TP_166067_20160704_20180526_01_T1_sr_band520190322100559301</id>
+      <datasource>./Week1ImageryFinal/Imagery/LC08_L1TP_166067_20160704_20180526_01_T1_sr_band5.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>LC08_L1TP_166067_20160704_20180526_01_T1_sr_band5</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>1653</minValue>
+            <maxValue>3656</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>309285</xmin>
+        <ymin>-1223115</ymin>
+        <xmax>541815</xmax>
+        <ymax>-1013985</ymax>
+      </extent>
+      <id>LT05_L1TP_166067_19930705_20170118_01_T1_sr_band420190322100000035</id>
+      <datasource>./Week1ImageryFinal/Imagery/LT05_L1TP_166067_19930705_20170118_01_T1_sr_band4.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>LT05_L1TP_166067_19930705_20170118_01_T1_sr_band4</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>1113</minValue>
+            <maxValue>5082</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>311985</xmin>
+        <ymin>-1235415</ymin>
+        <xmax>540015</xmax>
+        <ymax>-1003485</ymax>
+      </extent>
+      <id>NBR_199320190322110001459</id>
+      <datasource>./NBR_1993.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>NBR_1993</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="0.663623" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="0.112805" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0.113" label="0.113" color="#d7191c"/>
+              <item alpha="255" value="0.251" label="0.251" color="#fdae61"/>
+              <item alpha="255" value="0.388" label="0.388" color="#ffffbf"/>
+              <item alpha="255" value="0.526" label="0.526" color="#abdda4"/>
+              <item alpha="255" value="0.664" label="0.664" color="#2b83ba"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>311985</xmin>
+        <ymin>-1235415</ymin>
+        <xmax>540015</xmax>
+        <ymax>-1003485</ymax>
+      </extent>
+      <id>NBR_201620190322110225127</id>
+      <datasource>./NBR_2016.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>NBR_2016</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="0.650966" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="0.11119" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0.111" label="0.111" color="#d7191c"/>
+              <item alpha="255" value="0.246" label="0.246" color="#fdae61"/>
+              <item alpha="255" value="0.381" label="0.381" color="#ffffbf"/>
+              <item alpha="255" value="0.516" label="0.516" color="#abdda4"/>
+              <item alpha="255" value="0.651" label="0.651" color="#2b83ba"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>311985</xmin>
+        <ymin>-1235415</ymin>
+        <xmax>540015</xmax>
+        <ymax>-1003485</ymax>
+      </extent>
+      <id>NBR_Diff20190322110721702</id>
+      <datasource>./NBR_Diff.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>NBR_Diff</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="0.366567" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-0.406975" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-0.5" label="-0.5" color="#d7191c"/>
+              <item alpha="255" value="-0.25" label="-0.25" color="#fdae61"/>
+              <item alpha="255" value="0" label="0" color="#ffffbf"/>
+              <item alpha="255" value="0.25" label="0.25" color="#abdda4"/>
+              <item alpha="255" value="0.5" label="0.5" color="#2b83ba"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>401955</xmin>
+        <ymin>-1112565</ymin>
+        <xmax>458925</xmax>
+        <ymax>-1068825</ymax>
+      </extent>
+      <id>NDVI_1993_again20190326195749093</id>
+      <datasource>./NDVI_1993_again.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>NDVI_1993</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="0.747165" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="0.465783" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0.466" label="0.466" color="#0d0887"/>
+              <item alpha="255" value="0.471" label="0.471" color="#1b068d"/>
+              <item alpha="255" value="0.477" label="0.477" color="#260591"/>
+              <item alpha="255" value="0.482" label="0.482" color="#2f0596"/>
+              <item alpha="255" value="0.488" label="0.488" color="#38049a"/>
+              <item alpha="255" value="0.493" label="0.493" color="#41049d"/>
+              <item alpha="255" value="0.499" label="0.499" color="#4903a0"/>
+              <item alpha="255" value="0.504" label="0.504" color="#5102a3"/>
+              <item alpha="255" value="0.51" label="0.51" color="#5901a5"/>
+              <item alpha="255" value="0.515" label="0.515" color="#6100a7"/>
+              <item alpha="255" value="0.521" label="0.521" color="#6900a8"/>
+              <item alpha="255" value="0.526" label="0.526" color="#7100a8"/>
+              <item alpha="255" value="0.532" label="0.532" color="#7801a8"/>
+              <item alpha="255" value="0.538" label="0.538" color="#8004a8"/>
+              <item alpha="255" value="0.543" label="0.543" color="#8707a6"/>
+              <item alpha="255" value="0.549" label="0.549" color="#8e0ca4"/>
+              <item alpha="255" value="0.554" label="0.554" color="#9511a1"/>
+              <item alpha="255" value="0.56" label="0.56" color="#9c179e"/>
+              <item alpha="255" value="0.565" label="0.565" color="#a21d9a"/>
+              <item alpha="255" value="0.571" label="0.571" color="#a82296"/>
+              <item alpha="255" value="0.576" label="0.576" color="#ae2892"/>
+              <item alpha="255" value="0.582" label="0.582" color="#b42e8d"/>
+              <item alpha="255" value="0.587" label="0.587" color="#ba3388"/>
+              <item alpha="255" value="0.593" label="0.593" color="#bf3984"/>
+              <item alpha="255" value="0.598" label="0.598" color="#c43e7f"/>
+              <item alpha="255" value="0.604" label="0.604" color="#c9447a"/>
+              <item alpha="255" value="0.609" label="0.609" color="#cd4a76"/>
+              <item alpha="255" value="0.615" label="0.615" color="#d24f71"/>
+              <item alpha="255" value="0.62" label="0.62" color="#d6556d"/>
+              <item alpha="255" value="0.626" label="0.626" color="#da5b69"/>
+              <item alpha="255" value="0.631" label="0.631" color="#de6164"/>
+              <item alpha="255" value="0.637" label="0.637" color="#e26660"/>
+              <item alpha="255" value="0.642" label="0.642" color="#e66c5c"/>
+              <item alpha="255" value="0.648" label="0.648" color="#e97257"/>
+              <item alpha="255" value="0.653" label="0.653" color="#ed7953"/>
+              <item alpha="255" value="0.659" label="0.659" color="#f07f4f"/>
+              <item alpha="255" value="0.664" label="0.664" color="#f3854b"/>
+              <item alpha="255" value="0.67" label="0.67" color="#f58c46"/>
+              <item alpha="255" value="0.675" label="0.675" color="#f79342"/>
+              <item alpha="255" value="0.681" label="0.681" color="#f99a3e"/>
+              <item alpha="255" value="0.686" label="0.686" color="#fba139"/>
+              <item alpha="255" value="0.692" label="0.692" color="#fca835"/>
+              <item alpha="255" value="0.698" label="0.698" color="#fdaf31"/>
+              <item alpha="255" value="0.703" label="0.703" color="#feb72d"/>
+              <item alpha="255" value="0.709" label="0.709" color="#febe2a"/>
+              <item alpha="255" value="0.714" label="0.714" color="#fdc627"/>
+              <item alpha="255" value="0.72" label="0.72" color="#fcce25"/>
+              <item alpha="255" value="0.725" label="0.725" color="#fbd724"/>
+              <item alpha="255" value="0.731" label="0.731" color="#f8df25"/>
+              <item alpha="255" value="0.736" label="0.736" color="#f6e826"/>
+              <item alpha="255" value="0.742" label="0.742" color="#f3f027"/>
+              <item alpha="255" value="0.747" label="0.747" color="#f0f921"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>401955</xmin>
+        <ymin>-1112565</ymin>
+        <xmax>458925</xmax>
+        <ymax>-1068825</ymax>
+      </extent>
+      <id>NDVI_201620190326192708155</id>
+      <datasource>./NDVI_2016.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>NDVI_2016</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="0.815588" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="0.446813" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="0.447" label="0.447" color="#0d0887"/>
+              <item alpha="255" value="0.454" label="0.454" color="#1b068d"/>
+              <item alpha="255" value="0.461" label="0.461" color="#260591"/>
+              <item alpha="255" value="0.469" label="0.469" color="#2f0596"/>
+              <item alpha="255" value="0.476" label="0.476" color="#38049a"/>
+              <item alpha="255" value="0.483" label="0.483" color="#41049d"/>
+              <item alpha="255" value="0.49" label="0.49" color="#4903a0"/>
+              <item alpha="255" value="0.497" label="0.497" color="#5102a3"/>
+              <item alpha="255" value="0.505" label="0.505" color="#5901a5"/>
+              <item alpha="255" value="0.512" label="0.512" color="#6100a7"/>
+              <item alpha="255" value="0.519" label="0.519" color="#6900a8"/>
+              <item alpha="255" value="0.526" label="0.526" color="#7100a8"/>
+              <item alpha="255" value="0.534" label="0.534" color="#7801a8"/>
+              <item alpha="255" value="0.541" label="0.541" color="#8004a8"/>
+              <item alpha="255" value="0.548" label="0.548" color="#8707a6"/>
+              <item alpha="255" value="0.555" label="0.555" color="#8e0ca4"/>
+              <item alpha="255" value="0.563" label="0.563" color="#9511a1"/>
+              <item alpha="255" value="0.57" label="0.57" color="#9c179e"/>
+              <item alpha="255" value="0.577" label="0.577" color="#a21d9a"/>
+              <item alpha="255" value="0.584" label="0.584" color="#a82296"/>
+              <item alpha="255" value="0.591" label="0.591" color="#ae2892"/>
+              <item alpha="255" value="0.599" label="0.599" color="#b42e8d"/>
+              <item alpha="255" value="0.606" label="0.606" color="#ba3388"/>
+              <item alpha="255" value="0.613" label="0.613" color="#bf3984"/>
+              <item alpha="255" value="0.62" label="0.62" color="#c43e7f"/>
+              <item alpha="255" value="0.628" label="0.628" color="#c9447a"/>
+              <item alpha="255" value="0.635" label="0.635" color="#cd4a76"/>
+              <item alpha="255" value="0.642" label="0.642" color="#d24f71"/>
+              <item alpha="255" value="0.649" label="0.649" color="#d6556d"/>
+              <item alpha="255" value="0.657" label="0.657" color="#da5b69"/>
+              <item alpha="255" value="0.664" label="0.664" color="#de6164"/>
+              <item alpha="255" value="0.671" label="0.671" color="#e26660"/>
+              <item alpha="255" value="0.678" label="0.678" color="#e66c5c"/>
+              <item alpha="255" value="0.685" label="0.685" color="#e97257"/>
+              <item alpha="255" value="0.693" label="0.693" color="#ed7953"/>
+              <item alpha="255" value="0.7" label="0.7" color="#f07f4f"/>
+              <item alpha="255" value="0.707" label="0.707" color="#f3854b"/>
+              <item alpha="255" value="0.714" label="0.714" color="#f58c46"/>
+              <item alpha="255" value="0.722" label="0.722" color="#f79342"/>
+              <item alpha="255" value="0.729" label="0.729" color="#f99a3e"/>
+              <item alpha="255" value="0.736" label="0.736" color="#fba139"/>
+              <item alpha="255" value="0.743" label="0.743" color="#fca835"/>
+              <item alpha="255" value="0.751" label="0.751" color="#fdaf31"/>
+              <item alpha="255" value="0.758" label="0.758" color="#feb72d"/>
+              <item alpha="255" value="0.765" label="0.765" color="#febe2a"/>
+              <item alpha="255" value="0.772" label="0.772" color="#fdc627"/>
+              <item alpha="255" value="0.779" label="0.779" color="#fcce25"/>
+              <item alpha="255" value="0.787" label="0.787" color="#fbd724"/>
+              <item alpha="255" value="0.794" label="0.794" color="#f8df25"/>
+              <item alpha="255" value="0.801" label="0.801" color="#f6e826"/>
+              <item alpha="255" value="0.808" label="0.808" color="#f3f027"/>
+              <item alpha="255" value="0.816" label="0.816" color="#f0f921"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>401955</xmin>
+        <ymin>-1112565</ymin>
+        <xmax>458925</xmax>
+        <ymax>-1068825</ymax>
+      </extent>
+      <id>NDVI_Diff20190326192748913</id>
+      <datasource>./NDVI_Diff.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>NDVI_Diff</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="0.191003" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-0.209679" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-0.21" label="-0.21" color="#d7191c"/>
+              <item alpha="255" value="-0.11" label="-0.11" color="#fdae61"/>
+              <item alpha="255" value="-0.00934" label="-0.00934" color="#ffffbf"/>
+              <item alpha="255" value="0.0908" label="0.0908" color="#abdda4"/>
+              <item alpha="255" value="0.191" label="0.191" color="#2b83ba"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>342375</xmin>
+        <ymin>-1113255</ymin>
+        <xmax>393255</xmax>
+        <ymax>-1068135</ymax>
+      </extent>
+      <id>NIR_2016_1993_clipped20190322104818185</id>
+      <datasource>./NIR_2016_1993_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>NIR_2016_1993_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" blueBand="-1" greenBand="2" type="multibandcolor" redBand="1">
+          <rasterTransparency/>
+          <redContrastEnhancement>
+            <minValue>2033</minValue>
+            <maxValue>3077</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>1989</minValue>
+            <maxValue>2919</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>309285</xmin>
+        <ymin>-1223115</ymin>
+        <xmax>541815</xmax>
+        <ymax>-1013985</ymax>
+      </extent>
+      <id>Tanzania199320190322100308004</id>
+      <datasource>./Tanzania1993.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Tanzania1993</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+        <noDataList bandNo="5" useSrcNoData="0"/>
+        <noDataList bandNo="6" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" blueBand="3" greenBand="4" type="multibandcolor" redBand="5">
+          <rasterTransparency/>
+          <redContrastEnhancement>
+            <minValue>1331.03</minValue>
+            <maxValue>2189.52</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>2002.26</minValue>
+            <maxValue>2703.37</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>287.612</minValue>
+            <maxValue>660.935</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>342375</xmin>
+        <ymin>-1113255</ymin>
+        <xmax>393255</xmax>
+        <ymax>-1068135</ymax>
+      </extent>
+      <id>Tanzania1993_band4_clipped20190322104518876</id>
+      <datasource>./Tanzania1993_band4_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Tanzania1993_band4_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>1990</minValue>
+            <maxValue>2919</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>342375</xmin>
+        <ymin>-1113255</ymin>
+        <xmax>393855</xmax>
+        <ymax>-1068135</ymax>
+      </extent>
+      <id>Tanzania1993_clipped20190322102636537</id>
+      <datasource>./Tanzania1993_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Tanzania1993_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+        <noDataList bandNo="5" useSrcNoData="0"/>
+        <noDataList bandNo="6" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" blueBand="3" greenBand="4" type="multibandcolor" redBand="5">
+          <rasterTransparency/>
+          <redContrastEnhancement>
+            <minValue>1076.48</minValue>
+            <maxValue>2602.56</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>1999.24</minValue>
+            <maxValue>2908.23</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>177.507</minValue>
+            <maxValue>839.954</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>311985</xmin>
+        <ymin>-1235415</ymin>
+        <xmax>540015</xmax>
+        <ymax>-1003485</ymax>
+      </extent>
+      <id>Tanzania201620190322100837718</id>
+      <datasource>./Tanzania2016.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Tanzania2016</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+        <noDataList bandNo="5" useSrcNoData="0"/>
+        <noDataList bandNo="6" useSrcNoData="0"/>
+        <noDataList bandNo="7" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" blueBand="4" greenBand="5" type="multibandcolor" redBand="6">
+          <rasterTransparency/>
+          <redContrastEnhancement>
+            <minValue>1250.11</minValue>
+            <maxValue>2316.49</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>2081.86</minValue>
+            <maxValue>2908.8</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>148.265</minValue>
+            <maxValue>641.619</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>342375</xmin>
+        <ymin>-1113255</ymin>
+        <xmax>393255</xmax>
+        <ymax>-1068135</ymax>
+      </extent>
+      <id>Tanzania2016_band5_clipped20190322104635609</id>
+      <datasource>./Tanzania2016_band5_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Tanzania2016_band5_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>2036</minValue>
+            <maxValue>3066</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>342375</xmin>
+        <ymin>-1113255</ymin>
+        <xmax>393255</xmax>
+        <ymax>-1068135</ymax>
+      </extent>
+      <id>Tanzania2016_clipped20190322102901151</id>
+      <datasource>./Tanzania2016_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>Tanzania2016_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=37 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3121</srsid>
+          <srid>32637</srid>
+          <authid>EPSG:32637</authid>
+          <description>WGS 84 / UTM zone 37N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+        <noDataList bandNo="2" useSrcNoData="0"/>
+        <noDataList bandNo="3" useSrcNoData="0"/>
+        <noDataList bandNo="4" useSrcNoData="0"/>
+        <noDataList bandNo="5" useSrcNoData="0"/>
+        <noDataList bandNo="6" useSrcNoData="0"/>
+        <noDataList bandNo="7" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" blueBand="4" greenBand="5" type="multibandcolor" redBand="6">
+          <rasterTransparency/>
+          <redContrastEnhancement>
+            <minValue>1076.23</minValue>
+            <maxValue>2690.75</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </redContrastEnhancement>
+          <greenContrastEnhancement>
+            <minValue>2045.95</minValue>
+            <maxValue>3013.64</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </greenContrastEnhancement>
+          <blueContrastEnhancement>
+            <minValue>43.1914</minValue>
+            <maxValue>846.46</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </blueContrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString"></DistanceUnits>
+      <AreaUnits type="QString"></AreaUnits>
+    </Measurement>
+    <SpatialRefSys>
+      <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+      <ProjectCRSID type="int">3452</ProjectCRSID>
+    </SpatialRefSys>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Gui>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+    </Gui>
+    <Digitizing>
+      <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <LayerSnappingList type="QStringList"/>
+      <LayerSnappingEnabledList type="QStringList"/>
+      <SnappingMode type="QString">current_layer</SnappingMode>
+      <AvoidIntersectionsList type="QStringList"/>
+      <LayerSnappingToleranceUnitList type="QStringList"/>
+      <LayerSnapToList type="QStringList"/>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
+      <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
+      <LayerSnappingToleranceList type="QStringList"/>
+    </Digitizing>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>
